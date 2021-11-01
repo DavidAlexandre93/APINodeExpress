@@ -1,0 +1,14 @@
+Para inicializar o servidor 
+npx lite-server 
+
+Para inicializar a API 
+node server.js 
+
+Para inicializar a API automaticamente com Nodemon 
+npm start (configurado no package.json)
+
+Api para teste
+https://jsonplaceholder.typicode.com/users
+
+Instalar dependecias do projeto
+npm i express nodemon cors axios
